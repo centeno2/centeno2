@@ -25,7 +25,7 @@
     <td valign="top" width="50%">
       <h3>💡 Proyectos destacados</h3>
       <ul>
-        <li><strong>Modelado de IA</strong> - Desarrollo de gentes y modelos de IA C# y SQL Server.</li>
+        <li><strong>Modelado de IA</strong> - Desarrollo de gentes y modelos de IA .</li>
         <li><strong>Juego 2D Unity</strong> - Juego hecho en Unity usando C# y animaciones.</li>
         <li><strong>Web Personal</strong> - Portfolio hecho con HTML y CSS.</li>
       </ul>
