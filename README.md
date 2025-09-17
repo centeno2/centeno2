@@ -6,7 +6,7 @@
 
 ### 👋 ¡Hola! Soy Engel Chavarria 🌙
 
-¡Bienvenido a mi espacio en GitHub! Soy un **desarrollador de software** de 🇳🇮 Nicaragua, apasionado por la creación de soluciones y el mundo de la tecnología. Encuentro inspiración en los videojuegos, el ritmo de la música y la constante evolución del desarrollo de software.
+¡Bienvenido a mi espacio en GitHub! Soy un **desarrollador de software** apasionado por la creación de soluciones y el mundo de la tecnología. Encuentro inspiración en los videojuegos, el ritmo de la música y la constante evolución del desarrollo de software.
 
 ---
 
@@ -19,7 +19,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer">
@@ -47,12 +47,12 @@ Cuando no estoy escribiendo líneas de código, me encontrarás sumergido en mun
 
 ---
 
-### 📊 Mis estadísticas en GitHub
+### 📊 Mis estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Engel-s&show_icons=true&theme=dark" alt="Estadísticas de Engel's GitHub"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engel-s&layout=compact&theme=dark" alt="Lenguajes principales"/>
+  <a href="https://github.com/Engel-s">
+    <img src="https://github-profile-summary-for-github.com/repos/Engel-s.svg" alt="Estadísticas de Engel's GitHub" />
+  </a>
 </div>
 
 ---
