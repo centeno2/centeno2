@@ -1,39 +1,25 @@
 
-# 👋 Hola, soy Heyner Centeno  
+Heyner Centeno | Desarrollador de Software 💻
+<div align="center">
+<img src="https://i.imgur.com/k6lP06K.gif" alt="Scissor Seven banner" width="100%"/>
+</div>
 
-🌌 Soñador y apasionado por la tecnología.  
-✂️ Fan de **Scissor Seven** y de los mundos creativos.  
-💻 Explorando desarrollo de software y nuevas herramientas.  
-🎶 La música y el código siempre acompañan mis días.  
+¡Hola! Soy Heyner, un desarrollador de software apasionado y un soñador que encuentra su ritmo entre la música y el código. Me inspira la creatividad de series como Scissor Seven y siempre estoy en la búsqueda de nuevas herramientas y tecnologías para expandir mis habilidades.
 
----
+🛠️ Tecnologías que uso
+📊 Mis estadísticas de GitHub
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=centeno2&show_icons=true&theme=tokyonight&hide_border=true" alt="Heyner's GitHub stats"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=centeno2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
 
-## 🚀 Tecnologías que uso
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+🌟 Proyectos Destacados
+✨ Mi primer proyecto: Un punto de partida lleno de aprendizaje y pasión.
 
----
+⚡ Otro proyecto cool: Explorando nuevas ideas y desafíos.
 
-## 📊 Mis estadísticas en GitHub
-![Heyner's GitHub stats](https://github-readme-stats.vercel.app/api?username=centeno2&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=centeno2&layout=compact&theme=tokyonight)
-
----
-
-## 🌟 Proyectos Destacados
-- [✨ Mi primer proyecto](https://github.com/centeno2/mi-proyecto)  
-- [⚡ Otro proyecto cool](https://github.com/centeno2/otro-proyecto)
-
----
-
-## 🐍 Animación Snake
-![Snake animation](https://github.com/centeno2/centeno2/blob/output/github-contribution-grid-snake.svg)
-
----
-
+🐍 Animación Snake
 <p align="center">
-  <img src="https://i.imgur.com/vVYhS8h.gif" alt="Scissor Seven" width="200px"/>
+<img src="https://i.imgur.com/vVYhS8h.gif" alt="Scissor Seven" width="200px"/>
 </p>
