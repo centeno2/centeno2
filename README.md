@@ -5,12 +5,12 @@
 
 <!-- Banner GIF animado estilo Eccirso Seven -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/-c1NEb8YpckAAAAC/scissor-seven-wu-liuqi.gif" alt="Eccirso Seven Banner" width="700" />
+  <img src="https://media1.tenor.com/m/-c1NEb8YpckAAAAC/scissor-seven-wu-liuqi.gif" alt="Eccirso Seven Banner" width="250" />
 </p>
 
 <br clear="both">
 
-<img align="right" height="140" src="https://media.tenor.com/khDLujpg_SkAAAAi/moon-cute.gif"  />
+
 
 ### 🚀 Sobre mí  
 - 🎮 Me encantan los **videojuegos**.  
