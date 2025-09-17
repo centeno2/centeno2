@@ -5,7 +5,7 @@
 
 <!-- Banner GIF animado estilo Eccirso Seven -->
 <p align="center">
-  <img src="LINK_DE_TU_GIF.gif" alt="Eccirso Seven Banner" width="700" />
+  <img src="https://media1.tenor.com/m/-c1NEb8YpckAAAAC/scissor-seven-wu-liuqi.gif" alt="Eccirso Seven Banner" width="700" />
 </p>
 
 <br clear="both">
@@ -59,7 +59,7 @@
 
 ### 📊 Mis stats en GitHub
 ![Heyner's GitHub stats](https://github-readme-stats.vercel.app/api?username=centeno2&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=centeno2&layout=compact&theme=radical)
+
 
 ---
 
