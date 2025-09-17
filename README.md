@@ -5,6 +5,7 @@
 
 <!-- Banner GIF animado estilo Eccirso Seven -->
 <p align="center">
+  <br>
   <img src="https://media1.tenor.com/m/-c1NEb8YpckAAAAC/scissor-seven-wu-liuqi.gif" alt="Eccirso Seven Banner" width="250" />
 </p>
 
