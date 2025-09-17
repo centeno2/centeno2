@@ -12,9 +12,9 @@
 
 
 
-<table>
+<table style="border:none; width:100%;">
   <tr>
-    <td valign="top" width="50%">
+    <td style="border:none; vertical-align:top; width:50%;">
       <h3>🚀 Sobre mí</h3>
       <ul>
         <li>🎮 Me encantan los <strong>videojuegos</strong>.</li>
@@ -23,7 +23,7 @@
         <li>🛠️ Siempre aprendiendo nuevas tecnologías.</li>
       </ul>
     </td>
-    <td valign="top" width="50%">
+    <td style="border:none; vertical-align:top; width:50%;">
       <h3>💡 Proyectos destacados</h3>
       <ul>
         <li><strong>Tienda Septentrion</strong> - Sistema de gestión de productos en C# y SQL Server.</li>
