@@ -47,12 +47,8 @@
 
 ---
 
-### 📊 Actividad en GitHub  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HeynerCenteno/HeynerCenteno/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HeynerCenteno/HeynerCenteno/output/pacman-contribution-graph.svg">
-  <img alt="Heyner's animated Pacman contribution graph" src="https://raw.githubusercontent.com/HeynerCenteno/HeynerCenteno/output/pacman-contribution-graph.svg">
-</picture>
+### 📊 Mis stats en GitHub
+![Heyner's GitHub stats](https://github-readme-stats.vercel.app/api?username=centeno2&show_icons=true&theme=radical)
 
 ---
 
