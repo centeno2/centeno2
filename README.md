@@ -12,9 +12,9 @@
 
 
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 50px;">
 
-  <!-- Sobre mí -->
+  <!-- Columna izquierda: Sobre mí -->
   <div style="flex: 1;">
     <h3>🚀 Sobre mí</h3>
     <ul>
@@ -25,7 +25,7 @@
     </ul>
   </div>
 
-  <!-- Proyectos destacados -->
+  <!-- Columna derecha: Proyectos destacados -->
   <div style="flex: 1;">
     <h3>💡 Proyectos destacados</h3>
     <ul>
@@ -37,6 +37,7 @@
 
 </div>
 
+---
 
 ### 🛠️ Tecnologías y Herramientas  
 
