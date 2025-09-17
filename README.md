@@ -1,7 +1,3 @@
-<!-- Banner con Scissor Seven -->
-<p align="center">
-  <img src="https://i.imgur.com/l8nTZYg.gif" alt="Scissor Seven Banner" width="100%"/>
-</p>
 
 # 👋 Hola, soy Heyner Centeno  
 
