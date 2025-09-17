@@ -43,7 +43,8 @@
 ---
 
 ### 🎶 Mi música en Spotify  
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31xdlo4rmbvjw5ioeh7jvcfakwe4&count=3)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31xdlo4rmbvjw5ioeh7jvcfakwe4&count=5&unique=true)
+
 
 
 ---
