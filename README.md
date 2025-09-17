@@ -1,36 +1,62 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ3Y2M4YjVlOWVlZWQwZDgwZDA5OTFlMGM2NTQ3OWQ2ZjZkYzg4MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/wHxl3qS3t6vj3w6V6Z/giphy.gif" alt="Gaming, Music, and Coding" width="100%"/>
-</div>
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/N9h1rcp/banner-sccirso-seven.gif" alt="Banner Sccirso Seven" width="100%" />
+</p>
+
+# 👋 ¡Hola, soy Heyner Centeno!
+
+💻 Desarrollador en formación | 🎮 Gamer de corazón | 🎶 Amante de la música
 
 ---
 
-### 👋 ¡Hola! Soy Heyner Centeno 🌙
-
-¡Bienvenido a mi espacio en GitHub! Soy un **desarrollador de software** de 🇳🇮 Nicaragua, apasionado por la creación de soluciones y el mundo de la tecnología. Encuentro inspiración en los videojuegos, el ritmo de la música y la constante evolución del desarrollo de software.
-
----
-
-### 🚀 Tecnologías y Herramientas
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</div>
+## 🚀 Sobre mí
+- 🌟 Apasionado por la **tecnología** y el **desarrollo de software**.  
+- 🎮 Amo los **videojuegos** (¡me inspiran para crear cosas nuevas!).  
+- 🎶 La **música** siempre me acompaña mientras programo.  
+- 👨‍💻 Experiencia con:
+  - **Lenguajes**: HTML, CSS, JavaScript, Python, C#,  
+  - **Herramientas**: Git, GitHub, Visual Studio Code, Visual Studio 2022.  
 
 ---
 
-### 🎮 Mi mundo fuera del código
+## 🛠️ Tecnologías y herramientas
 
-Cuando no estoy escribiendo líneas de código, me encontrarás sumergido en mundos de fantasía y aventura en mis videojuegos favoritos, escuchando música para relajarme y buscar inspiración, o explorando nuevos proyectos de desarrollo.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,git,github,vscode,visualstudio" />
+</p>
+
+---
+
+## 🎨 Un poco de estilo extra
+✨ Siempre busco que mis proyectos sean **creativos, dinámicos y atractivos**.  
+💡 La idea es **aprender, construir y compartir**.  
+
+---
+
+## 🎯 Objetivos
+- 🚀 Mejorar mis habilidades como **full-stack developer**.  
+- 🎮 Algún día crear mi **propio videojuego**.  
+- 🌍 Conectar con otros desarrolladores y compartir conocimiento.  
+
+---
+
+## 📊 Stats de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HeynerCenteno&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeynerCenteno&theme=radical" alt="Racha de GitHub" />
+</p>
+
+---
+
+## 🌐 Conecta conmigo
+<p align="center">
+  <a href="https://github.com/HeynerCenteno"><img src="https://img.shields.io/badge/GitHub-HeynerCenteno-black?style=for-the-badge&logo=github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Heyner%20Centeno-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/HeynerCenteno/HeynerCenteno/blob/output/github-contribution-grid-snake.svg" alt="Animación de contribuciones en GitHub"/>
+  ✨ *"El código es como la música, cada línea puede crear una sinfonía."* 🎶
 </p>
