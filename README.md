@@ -12,24 +12,20 @@
 
 
 
-<table style="border:none; width:100%;">
+<table width="100%">
   <tr>
-    <td style="border:none; vertical-align:top; width:50%;">
+    <td width="50%" valign="top">
       <h3>🚀 Sobre mí</h3>
-      <ul>
-        <li>🎮 Me encantan los <strong>videojuegos</strong>.</li>
-        <li>🎶 Vivo con <strong>música</strong> mientras programo.</li>
-        <li>💻 Apasionado por el <strong>desarrollo de software</strong>.</li>
-        <li>🛠️ Siempre aprendiendo nuevas tecnologías.</li>
-      </ul>
+      🎮 Me encantan los <strong>videojuegos</strong>.<br>
+      🎶 Vivo con <strong>música</strong> mientras programo.<br>
+      💻 Apasionado por el <strong>desarrollo de software</strong>.<br>
+      🛠️ Siempre aprendiendo nuevas tecnologías.
     </td>
-    <td style="border:none; vertical-align:top; width:50%;">
+    <td width="50%" valign="top">
       <h3>💡 Proyectos destacados</h3>
-      <ul>
-        <li><strong>Tienda Septentrion</strong> - Sistema de gestión de productos en C# y SQL Server.</li>
-        <li><strong>Juego 2D Unity</strong> - Juego hecho en Unity usando C# y animaciones.</li>
-        <li><strong>Web Personal</strong> - Portfolio hecho con React, HTML y CSS.</li>
-      </ul>
+      <strong>Tienda Septentrion</strong> - Sistema de gestión de productos en C# y SQL Server.<br>
+      <strong>Juego 2D Unity</strong> - Juego hecho en Unity usando C# y animaciones.<br>
+      <strong>Web Personal</strong> - Portfolio hecho con React, HTML y CSS.
     </td>
   </tr>
 </table>
