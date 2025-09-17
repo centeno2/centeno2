@@ -18,19 +18,19 @@
 ---
 
 ## 📊 Mis estadísticas en GitHub
-![Heyner's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuunxo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuunxo&layout=compact&theme=tokyonight)
+![Heyner's GitHub stats](https://github-readme-stats.vercel.app/api?username=centeno2&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=centeno2&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌟 Proyectos Destacados
-- [✨ Mi primer proyecto](https://github.com/ryuunxo/mi-proyecto)  
-- [⚡ Otro proyecto cool](https://github.com/ryuunxo/otro-proyecto)
+- [✨ Mi primer proyecto](https://github.com/centeno2/mi-proyecto)  
+- [⚡ Otro proyecto cool](https://github.com/centeno2/otro-proyecto)
 
 ---
 
 ## 🐍 Animación Snake
-![Snake animation](https://github.com/ryuunxo/ryuunxo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/centeno2/centeno2/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
