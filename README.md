@@ -2,13 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=👋+Hola%2C+soy+Heyner+Centeno;💻+Apasionado+del+Desarrollo;🎮+Amante+de+los+Videojuegos;🎶+La+Música+es+mi+Energía" alt="Typing SVG" />
 </h2>
 
-###
+<!-- Banner estilo Eccirso Seven -->
+<p align="center">
+  <img src="https://i.ibb.co/2s6vR4P/eccirso-seven-banner.png" alt="Eccirso Seven Banner" width="600" />
+</p>
 
 <br clear="both">
 
 <img align="right" height="140" src="https://media.tenor.com/khDLujpg_SkAAAAi/moon-cute.gif"  />
-
-###
 
 ### 🚀 Sobre mí  
 - 🎮 Me encantan los **videojuegos**.  
@@ -38,14 +39,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
-
----
-
-### 🎶 Mi música en Spotify  
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31xdlo4rmbvjw5ioeh7jvcfakwe4&count=5&unique=true)
-
-
 
 ---
 
@@ -53,21 +53,5 @@
 ![Heyner's GitHub stats](https://github-readme-stats.vercel.app/api?username=centeno2&show_icons=true&theme=radical)
 
 
----
 
-### 🌐 Conecta conmigo  
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/heyner-centeno" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="mailto:tuemail@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
