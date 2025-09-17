@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=👋+Hola%2C+soy+Heyner+Centeno;💻+Apasionado+del+Desarrollo;🎮+Amante+de+los+Videojuegos;🎶+La+Música+es+mi+Energía" alt="Typing SVG" />
 </h2>
 
-<!-- Banner estilo Eccirso Seven -->
+<!-- Banner estilo Eccirso Seven con texto dinámico -->
 <p align="center">
-  <img src="https://i.ibb.co/2s6vR4P/eccirso-seven-banner.png" alt="Eccirso Seven Banner" width="600" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=FF5733&center=true&vCenter=true&width=700&lines=Eccirso+Seven" alt="Eccirso Seven Banner" />
 </p>
 
 <br clear="both">
