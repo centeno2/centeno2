@@ -13,16 +13,16 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🚀 Sobre mí</h3>
+      <h3> Sobre mí</h3>
       <ul>
-        <li>🎮 Me encantan los <strong>videojuegos</strong>.</li>
-        <li>🎶 Vivo con <strong>música</strong> mientras programo.</li>
-        <li>💻 Apasionado por el <strong>desarrollo de software</strong>.</li>
-        <li>🛠️ Siempre aprendiendo nuevas tecnologías.</li>
+        <li> Me encantan los <strong>videojuegos</strong>.</li>
+        <li> Vivo con <strong>música</strong> mientras programo.</li>
+        <li>Apasionado por el <strong>desarrollo de software</strong>.</li>
+        <li> Siempre aprendiendo nuevas tecnologías.</li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>💡 Proyectos destacados</h3>
+      <h3> Proyectos destacados</h3>
       <ul>
         <li><strong>Modelado de IA</strong> - Desarrollo de gentes y modelos de IA .</li>
         <li><strong>Juego 2D Unity</strong> - Juego hecho en Unity usando C# y animaciones.</li>
@@ -66,13 +66,13 @@
 
 ---
 
-### 📊 Mis stats en GitHub
+###  Mis stats en GitHub
 ![Heyner's GitHub stats](https://github-readme-stats.vercel.app/api?username=centeno2&show_icons=true&theme=radical)
 
 
 ---
 
-### 📫 Redes Sociales
+###  Redes Sociales
 <div align="left">
   <a href="mailto:heynercenteno26@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -84,5 +84,5 @@
 
 ---
 
-### 💬 Mi frase
-> “Code. Play. Repeat.” 🚀🎮💻
+###  Mi frase
+> “Code. Play. Repeat.” 
