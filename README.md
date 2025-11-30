@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=👋+Hola%2C+soy+Heyner+Centeno;💻+Apasionado+del+Desarrollo;🎮+Amante+de+los+Videojuegos;🎶+La+Música+es+mi+Energía;En+Formacion+Aun" alt="Typing SVG" />
 </h2>
 
-<!-- Banner GIF animado estilo Eccirso Seven -->
+
 <p align="center">
   <br>
   <img src="https://media1.tenor.com/m/-c1NEb8YpckAAAAC/scissor-seven-wu-liuqi.gif" alt="Eccirso Seven Banner" width="250" />
@@ -66,11 +66,6 @@
 
 ---
 
-###  Mis stats en GitHub
-![Heyner's GitHub stats](https://github-readme-stats.vercel.app/api?username=centeno2&show_icons=true&theme=radical)
-
-
----
 
 ###  Redes Sociales
 <div align="left">
