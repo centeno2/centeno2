@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=👋+Hola%2C+soy+Heyner+Centeno;💻+Apasionado+del+Desarrollo;🎮+Amante+de+los+Videojuegos;🎶+La+Música+es+mi+Energía;En+Formacion+Aun" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Heyner+Centeno;Apasionado+del+Desarrollo;Amante+de+los+Videojuegos;La+Música+es+mi+Energía;En+Formacion+Aun" alt="Typing SVG" />
 </h2>
 
 
