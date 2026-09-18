@@ -55,8 +55,6 @@ Me interesa comprender cómo funcionan las herramientas que utilizo, experimenta
 
 Landing page inmersiva con temática egipcia construida con **React, Vite y Three.js**, combinando desarrollo web tradicional con experiencias 3D interactivas.
 
-Incluye modelos tridimensionales optimizados, construcción progresiva de escenarios mediante scroll, animaciones, navegación accesible, carga diferida de recursos, fallback para dispositivos sin WebGL y pruebas automatizadas con Playwright.
-
 **Stack:** React · Vite · Three.js · JavaScript · CSS · Playwright · WebGL
 
 **Producción:** https://kemetroyal.online/
@@ -69,10 +67,6 @@ Incluye modelos tridimensionales optimizados, construcción progresiva de escena
 
 Sistema web orientado a la gestión comercial y administrativa de una empresa.
 
-Centraliza procesos de **inventario, productos, ventas, compras, clientes, proveedores, créditos, trabajadores, planillas, arqueo de caja, servicios técnicos, instalaciones y reportes**.
-
-Cuenta además con un dashboard interactivo para visualizar indicadores y operaciones importantes del negocio.
-
 **Stack:** Laravel · PHP · Livewire · Tailwind CSS · MaryUI · MySQL · Vite · Chart.js · TCPDF
 
 **Producción:** https://gnetservicomp.com/
@@ -84,10 +78,6 @@ Cuenta además con un dashboard interactivo para visualizar indicadores y operac
 ## GameKeys
 
 Overlay ligero de entrada de teclado y mouse diseñado específicamente para **Linux Wayland** y orientado al gaming.
-
-Permite visualizar pulsaciones de teclado y botones del mouse directamente sobre juegos y aplicaciones sin necesidad de utilizar OBS.
-
-Incluye soporte para layer-shell, diferentes posiciones, temas integrados, configuración personalizada e integración dinámica con **DankMaterialShell y Matugen**.
 
 **Stack:** Linux · Wayland · GTK4 · Layer Shell · Bash · JSON
 
